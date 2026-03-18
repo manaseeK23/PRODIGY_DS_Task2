@@ -3,11 +3,11 @@
 Perform Data Cleaning and Exploratory Data Analysis (EDA) on the Titanic Dataset.
 
 Tools Used
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python,
+Pandas,
+Matplotlib,
+Seaborn,
+Jupyter Notebook.
 
 Dataset
 Titanic Dataset
